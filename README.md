@@ -1,4 +1,6 @@
-# Galton Board (Quincunx)
+# Matter Practice
+
+![2d Shapes](src/images/shapes.png)
 
 ## Available Scripts
 
